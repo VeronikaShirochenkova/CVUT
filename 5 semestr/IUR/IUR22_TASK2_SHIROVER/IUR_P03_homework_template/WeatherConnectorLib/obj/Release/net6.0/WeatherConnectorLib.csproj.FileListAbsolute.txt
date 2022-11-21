@@ -1,0 +1,12 @@
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\bin\Release\net6.0\WeatherConnectorLib.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\bin\Release\net6.0\WeatherConnectorLib.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\bin\Release\net6.0\WeatherConnectorLib.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\refint\WeatherConnectorLib.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\WeatherConnectorLib.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P03\IUR_P03_solved\WeatherConnectorLib\obj\Release\net6.0\ref\WeatherConnectorLib.dll

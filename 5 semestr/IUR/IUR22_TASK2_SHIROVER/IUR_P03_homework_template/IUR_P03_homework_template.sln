@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherConnectorLib", "WeatherConnectorLib\WeatherConnectorLib.csproj", "{AE979D69-BF59-4262-A910-05A1654887D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC", "MVC\MVC.csproj", "{12FA0868-466C-4588-B45D-D6EA411A3176}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVP", "MVP\MVP.csproj", "{745F7093-E8AC-41CE-8646-14479E3D5DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE979D69-BF59-4262-A910-05A1654887D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE979D69-BF59-4262-A910-05A1654887D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE979D69-BF59-4262-A910-05A1654887D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE979D69-BF59-4262-A910-05A1654887D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FA0868-466C-4588-B45D-D6EA411A3176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FA0868-466C-4588-B45D-D6EA411A3176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FA0868-466C-4588-B45D-D6EA411A3176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FA0868-466C-4588-B45D-D6EA411A3176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{745F7093-E8AC-41CE-8646-14479E3D5DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745F7093-E8AC-41CE-8646-14479E3D5DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745F7093-E8AC-41CE-8646-14479E3D5DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745F7093-E8AC-41CE-8646-14479E3D5DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F38F9B-4DC3-48DD-9BD8-B78E25A23E8A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,95 @@
+﻿<Window x:Class="IUR_P02_SHIROVER.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IUR_P02_SHIROVER"
+        mc:Ignorable="d"
+        Title="Weather App" Height="300" Width="450"  
+        Background="Transparent" WindowStyle="None" AllowsTransparency="True" 
+        WindowStartupLocation="CenterScreen"
+        FontFamily="Comic Sans MS">
+    <Grid >
+
+        <Border Background="White" CornerRadius="30" MouseDown="Border_MouseDown"/>
+        
+        <Label Content="City" Height="29" Width="48" Margin="40,52,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Content="Manage Cities ..." Height="23" Margin="292,52,40,0" VerticalAlignment="Top" Click="Button_Click" Cursor="Hand">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="7"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <TabControl Background="White" Margin="40,117,40,40">
+            <TabControl.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="0, 10, 10, 10"/>
+                </Style>
+            </TabControl.Resources>
+            <TabItem Header="Current" Cursor="Hand">
+                <TabItem.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10, 10, 0, 0"/>
+                    </Style>
+                </TabItem.Resources>
+                <Grid>
+                    <Label Content="Temperature" Margin="20,15,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBlock Name="TempTextBlock" Text="-" Margin="108,20,0,77" HorizontalAlignment="Left" TextWrapping="Wrap"/>
+
+                    <Label Content="Humidity" Margin="20,40,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBlock Name="HumidityTextBlock" Text="-" Margin="108,45,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Tomorrow" Cursor="Hand">
+                <TabItem.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10, 10, 0, 0"/>
+                    </Style>
+                </TabItem.Resources>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="85*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Temperature" Margin="20,15,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+                    <TextBlock Name="TempTomorrow_TextBlock" Text="-" Margin="84,20,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap" Grid.Column="2"/>
+
+                    <Label Content="Humidity" Margin="20,40,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+                    <TextBlock Name="HumidityTomorrow_TextBlock" Text="-" Margin="84,45,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap" Grid.Column="2"/>
+
+                    <Label Content="Time" Margin="20,65,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="3"/>
+                    <TextBlock Name="AtTomorrow_TextBlock" Text="-" Margin="84,70,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap" Grid.Column="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Name="Tdat_tabItem"  Header="The day after tomorrow" Cursor="Hand">
+                <TabItem.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="10, 10, 0, 0"/>
+                    </Style>
+                </TabItem.Resources>
+                <Grid>
+                    <Label Content="Temperature" Margin="20,15,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBlock Name="TempTdat_TextBlock" Text="-" Margin="108,20,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"/>
+
+                    <Label Content="Humidity" Margin="20,40,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBlock Name="HumidityTdat_TextBlock" Text="-" Margin="108,45,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"/>
+
+                    <Label Content="Time" Margin="20,65,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                    <TextBlock Name="AtTdat_TextBlock" Text="-" Margin="108,70,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <ComboBox Name="Cities_comboBox" Width="173" Margin="85,52,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" SelectionChanged="ComboBox_SelectionChanged" Cursor="Hand">
+            <ComboBoxItem Content="Praha"/>
+            <ComboBoxItem Content="Brno"/>
+            <ComboBoxItem Content="Ostrava"/>
+        </ComboBox>
+
+        <!--Minimize/Close buttons-->
+        <Ellipse Fill="#FA6161" Height="20" Width="20" Margin="0,13,14,0" HorizontalAlignment="Right" VerticalAlignment="Top" MouseLeftButtonDown="Close_app" ToolTip="Close" Cursor="Hand"/>
+        <Ellipse Fill="#CFE1FA" Height="20" Width="20" Margin="0,13,40,0" HorizontalAlignment="Right" VerticalAlignment="Top" MouseLeftButtonDown="Minimize_app" ToolTip="Minimize" Cursor="Hand"/>
+    
+    </Grid>
+</Window>

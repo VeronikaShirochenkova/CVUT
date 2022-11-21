@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\cold1.png" />
+    <None Remove="Images\cold2.png" />
+    <None Remove="Images\cold3.png" />
+    <None Remove="Images\hot1.png" />
+    <None Remove="Images\hot2.png" />
+    <None Remove="Images\hot3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\cold1.png" />
+    <Resource Include="Images\cold2.png" />
+    <Resource Include="Images\cold3.png" />
+    <Resource Include="Images\hot1.png" />
+    <Resource Include="Images\hot2.png" />
+    <Resource Include="Images\hot3.png" />
+  </ItemGroup>
+
+</Project>

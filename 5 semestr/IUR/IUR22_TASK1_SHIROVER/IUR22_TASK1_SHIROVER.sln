@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32127.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IUR22_TASK1_SHIROVER", "IUR22_TASK1_SHIROVER.csproj", "{999100B2-86AD-4283-99E7-2102D8C8ED1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999100B2-86AD-4283-99E7-2102D8C8ED1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999100B2-86AD-4283-99E7-2102D8C8ED1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999100B2-86AD-4283-99E7-2102D8C8ED1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999100B2-86AD-4283-99E7-2102D8C8ED1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D81ACE9-F51B-40B9-973B-E2E6EA06965E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<Application x:Class="IUR_P05_solved.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:IUR_P05_solved"
+             StartupUri="Views/AlarmManager.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
