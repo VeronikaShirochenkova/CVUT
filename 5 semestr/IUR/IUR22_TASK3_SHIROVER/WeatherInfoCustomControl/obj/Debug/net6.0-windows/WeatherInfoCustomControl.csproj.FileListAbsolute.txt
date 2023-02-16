@@ -1,0 +1,85 @@
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\refint\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\ref\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\refint\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\ref\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\refint\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\ref\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\refint\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_Task3_solved\WeatherInfoCustomControl\obj\Debug\net6.0-windows\ref\WeatherInfoCustomControl.dll
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.deps.json
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.AssemblyReference.cache
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.cache
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl_MarkupCompile.lref
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\Themes\Generic.baml
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.g.resources
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfoInputs.cache
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.AssemblyInfo.cs
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.csproj.CoreCompileInputs.cache
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\refint\WeatherInfoCustomControl.dll
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+D:\IUR\IUR_Task3_assignment\WeatherInfoCustomControl\obj\Debug\net6.0-windows\ref\WeatherInfoCustomControl.dll

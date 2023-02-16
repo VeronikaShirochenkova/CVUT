@@ -1,0 +1,108 @@
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.exe
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.runtimeconfig.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CopyComplete
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\refint\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.genruntimeconfig.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\ref\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\IUR_P07_assignment.exe
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\IUR_P07_assignment.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\IUR_P07_assignment.runtimeconfig.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CopyComplete
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\refint\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\IUR_P07_assignment.genruntimeconfig.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07_solved\IUR_P07_solved\IUR_P07_assignment\obj\Debug\net6.0-windows\ref\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.exe
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.runtimeconfig.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CopyComplete
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\refint\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.genruntimeconfig.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P07\IUR_P07_solved\IUR_P07_solved\obj\Debug\net6.0-windows\ref\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.exe
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.deps.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.runtimeconfig.json
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\bin\Debug\net6.0-windows\WeatherInfoCustomControl.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.AssemblyReference.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment_MarkupCompile.lref
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\UserControls\MyInputUserControl.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.g.resources
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfoInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.AssemblyInfo.cs
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CoreCompileInputs.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.csproj.CopyComplete
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\refint\IUR_P07_assignment.dll
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.pdb
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\IUR_P07_assignment.genruntimeconfig.cache
+C:\Users\macikmir\source\repos\iur-practices\IUR_P11 - Own controls\IUR_P11_solved\IUR_P07_solved\obj\Debug\net6.0-windows\ref\IUR_P07_assignment.dll

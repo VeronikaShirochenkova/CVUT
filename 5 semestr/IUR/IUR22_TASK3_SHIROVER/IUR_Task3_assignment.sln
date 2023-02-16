@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32721.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherInfoCustomControl", "WeatherInfoCustomControl\WeatherInfoCustomControl.csproj", "{857ACF33-E954-43F9-A47E-D914F46C22EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IUR_Task3_assignment", "IUR_task3_assignment\IUR_Task3_assignment.csproj", "{2755DFE5-BFBD-4813-BF54-B8FA17AABA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857ACF33-E954-43F9-A47E-D914F46C22EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857ACF33-E954-43F9-A47E-D914F46C22EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857ACF33-E954-43F9-A47E-D914F46C22EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857ACF33-E954-43F9-A47E-D914F46C22EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2755DFE5-BFBD-4813-BF54-B8FA17AABA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2755DFE5-BFBD-4813-BF54-B8FA17AABA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2755DFE5-BFBD-4813-BF54-B8FA17AABA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2755DFE5-BFBD-4813-BF54-B8FA17AABA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2E3623-9B5D-4EC5-AC80-1485B7E9B735}
+	EndGlobalSection
+EndGlobal
